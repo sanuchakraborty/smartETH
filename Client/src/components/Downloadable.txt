@@ -1,0 +1,35 @@
+           
+           
+           
+           
+                     Guidelines How You Can Test This Web-App
+
+
+    1. Go to your chrome extensions or add-ons and add Metamask to your browser
+       
+    
+    2. Create a wallet, remember the password and note down those twelve words while creating 
+       
+    
+    3. Go to Ethereum Mainnet button and click show/hide test networks and enable it to show test networks
+       
+    
+    4. Scroll up and select Rinkeby test network 
+       
+    
+    5. Get back to the website and click on ‘Connect your wallet’ button 
+       
+    
+    6. Copy your account address and go to https://rinkebyfaucet.com/ to get free test Ethereum into your account
+        
+    
+    7. Paste your account address and click on ‘Send me ETH’ button
+       
+    
+    8. Go back to your Metamask wallet and wait for few minutes and you will be credited with some amount of test Ethereum
+       
+    
+    9. Create another account clicking the logo at the up-right
+       
+    
+    10. Copy that second account address and go to Send Ethereum page of the website and now you can send Ethereum to your second account from first  
